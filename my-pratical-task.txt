@@ -1,0 +1,7 @@
+same pixel perfect (1920 by 1080)
+menu and social icon hover effect
+Contact us area and About Us mouser over show content.
+Image triangle not use any image use for client and any size.
+More info button hover effdect animation creative.
+Not scrollbar anybody browser.
+Not Using bootstrap and JQuery
